@@ -1,0 +1,9 @@
+count_instant=2097-06-15T18:00:00Z
+products=5
+valid_entries=8
+opening_units=48
+received_units=19
+distributed_units=27
+final_units=40
+shortfall_products=1
+reorder_products=1
