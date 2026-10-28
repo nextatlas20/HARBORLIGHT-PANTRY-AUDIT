@@ -1,0 +1,6 @@
+sku,item,pantry,opening_units,reorder_point,display_order
+PN-101,Harbor oats,East Store,18,12,3
+PN-102,Sunset lentils,Community Shelf,6,8,1
+PN-103,Cedar tea,West Store,0,5,5
+PN-104,Stoneground flour,Bake Room,20,10,2
+PN-105,Maple beans,East Store,4,4,4
