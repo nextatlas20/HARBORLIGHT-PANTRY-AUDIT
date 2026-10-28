@@ -1,0 +1,6 @@
+sku	item	pantry	opening_units	reorder_point	final_units	status	valid_entry_count	last_recorded_at	last_kind	last_units	last_clerk
+PN-102	Sunset lentils	Community Shelf	6	8	9	STOCKED	2	2097-06-15T17:00:00Z	DISTRIBUTION	7	Oren
+PN-104	Stoneground flour	Bake Room	20	10	17	STOCKED	2	2097-06-14T16:00:00Z	RECEIPT	5	Mira
+PN-101	Harbor oats	East Store	18	12	16	STOCKED	3	2097-06-14T09:00:00Z	RECEIPT	4	Jules
+PN-105	Maple beans	East Store	4	4	-2	SHORTFALL	1	2097-06-13T08:00:00Z	DISTRIBUTION	6	Mira
+PN-103	Cedar tea	West Store	0	5	0	REORDER	0				
